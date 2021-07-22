@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E-MarketPlace</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="jeans">jeans</string>
+    <string name="socks">socks</string>
+    <string name="tie">tie</string>
+    <string name="availability">See if it\'s available</string>
+    <string name="product_details">product_details</string>
+    <string name="organic_apple_sauce">Organic Apple Sauce</string>
+</resources>
